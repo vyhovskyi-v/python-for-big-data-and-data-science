@@ -1,0 +1,1 @@
+print("Vladyslav Vyhovskyi, AI-2025")
